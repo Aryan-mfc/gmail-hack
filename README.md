@@ -27,3 +27,16 @@ $ ls
 $ python gmail.py
 $ python or python2
 
+
+```
+ 
+#### For Debian-based GNU/Linux distributions
+ 
+To use the application, type in the following commands in GNU/Linux terminal.
+```shell script
+sudo apt install git
+git clone  https://github.com/Aryan-mfc/gmail-hack.git
+cd gmail-hack
+Python gmail.py
+```
+ 
