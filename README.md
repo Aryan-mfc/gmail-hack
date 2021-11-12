@@ -30,7 +30,6 @@ $ python or python2
 
 ```
 
-
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Aryan-Mfc"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Aryan-Mfc&theme=monokai"></a>
 </p>  
@@ -63,12 +62,12 @@ $ python or python2
 </p>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Aryan-Mfc&repo=FacebookBrute&theme=chartreuse-dark" />
 <p align="center">
-<a href="https://github.com/Aryan-Mfc/PROHACK"><img title="FacebookBrute" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=FacebookBrute&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Aryan-Mfc/BanglaAll"><img title="BDALL" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=BanglaAll&theme=dark"></a>
+<a href="https://github.com/Aryan-Mfc/FacebookBrute"><img title="FacebookBrute" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=FacebookBrute&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Aryan-Mfc/FacebookBrute"><img title="BDALL" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=FacebookBrute&theme=dark"></a>
 <a href="https://github.com/Aryan-Mfc/gmail-hack"><img title="gmail-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=gmail-hack&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Aryan-Mfc/Email"><img title="FastBomber" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=FastBomber&theme=tokyonight"></a>
+<a href="https://github.com/Aryan-Mfc/FastBomber"><img title="FastBomber" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=FastBomber&theme=tokyonight"></a>
 </p>
- 
+
  
  
  
