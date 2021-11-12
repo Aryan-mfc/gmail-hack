@@ -38,10 +38,6 @@ $ python or python2
  <img src="https://profile-counter.glitch.me/Aryan-Mfc/count.svg" />
 </p>
  
-![20200808_160757](https://raw.githubusercontent.com/Aryan-Mfc/Aryan-Mfc/main/Screenshot_20210201-204155_Termux.jpg)
- 
-![20200808_160757](https://raw.githubusercontent.com/Aryan-Mfc/Aryan-Mfc/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
- 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Aryan-Mfc&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
  
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aryan-Mfc&layout=compact&theme=chartreuse-dark" />
@@ -67,7 +63,6 @@ $ python or python2
 <a href="https://github.com/Aryan-Mfc/gmail-hack"><img title="gmail-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=gmail-hack&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Aryan-Mfc/FastBomber"><img title="FastBomber" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=FastBomber&theme=tokyonight"></a>
 </p>
-
  
  
  
