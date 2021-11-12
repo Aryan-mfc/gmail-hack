@@ -29,6 +29,49 @@ $ python or python2
 
 
 ```
+
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/Aryan-Mfc"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Aryan-Mfc&theme=monokai"></a>
+</p>  
+<p align="center"> 
+ 
+ <img src="https://profile-counter.glitch.me/Aryan-Mfc/count.svg" />
+</p>
+ 
+![20200808_160757](https://raw.githubusercontent.com/Aryan-Mfc/Aryan-Mfc/main/Screenshot_20210201-204155_Termux.jpg)
+ 
+![20200808_160757](https://raw.githubusercontent.com/Aryan-Mfc/Aryan-Mfc/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+ 
+![github stats](https://github-readme-stats.vercel.app/api?username=Aryan-Mfc&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+ 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aryan-Mfc&layout=compact&theme=chartreuse-dark" />
+<p align="center"> 
+ 
+#Languages and Tools
+</p>
+ 
+<p align="center">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ </p>
+<p align="center">
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<br/><br/>
+</p>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Aryan-Mfc&repo=FacebookBrute&theme=chartreuse-dark" />
+<p align="center">
+<a href="https://github.com/Aryan-Mfc/PROHACK"><img title="FacebookBrute" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=FacebookBrute&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Aryan-Mfc/BanglaAll"><img title="BDALL" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=BanglaAll&theme=dark"></a>
+<a href="https://github.com/Aryan-Mfc/gmail-hack"><img title="gmail-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=gmail-hack&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Aryan-Mfc/Email"><img title="FastBomber" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=FastBomber&theme=tokyonight"></a>
+</p>
+ 
+ 
+ 
+ 
  
 #### For Debian-based GNU/Linux distributions
  
@@ -40,3 +83,6 @@ cd gmail-hack
 Python gmail.py
 ```
  
+<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Aryan-deepgreen?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/Dy3uWB9hOsrCvu49DaKP1n)
+
+
